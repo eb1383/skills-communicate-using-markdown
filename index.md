@@ -1,9 +1,3 @@
-# hi
+# An image
 
-## hi
-
-### hi
-
-#### hi
-
-add headers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
